@@ -1,6 +1,6 @@
-package com.lucien.pattern.classMode;
+package com.lucien.pattern.adapter.classMode;
 
-import com.lucien.pattern.Target;
+import com.lucien.pattern.adapter.Target;
 
 /**
  * <pre>

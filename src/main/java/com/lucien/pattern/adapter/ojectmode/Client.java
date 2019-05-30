@@ -1,7 +1,7 @@
-package com.lucien.pattern.ojectmode;
+package com.lucien.pattern.adapter.ojectmode;
 
-import com.lucien.pattern.Adaptee;
-import com.lucien.pattern.Target;
+import com.lucien.pattern.adapter.Adaptee;
+import com.lucien.pattern.adapter.Target;
 
 /**
  * <pre>

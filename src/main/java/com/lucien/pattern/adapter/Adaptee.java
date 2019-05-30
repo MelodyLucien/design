@@ -1,4 +1,4 @@
-package com.lucien.pattern;
+package com.lucien.pattern.adapter;
 
 import static java.lang.System.out;
 
